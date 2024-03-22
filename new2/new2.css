@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(50, 48, 48);
+}
+
+.container1{
+width: 600px;
+margin: auto;
+    background-color: white;
+    height: 100px;
+}
+
+.inputs{
+    text-align: center;
+}
+
+
+
+#in1{
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 30px;
+    width: 400px;
+}
+
+#add{
+    background-color: black;
+    color: whitesmoke;
+    height: 35px;
+    width: 80px;
+}
+
+.display{
+    background-color: whitesmoke;
+    height: 300px;
+}
+
+.citydisplay{
+    background-color: burlywood;
+}

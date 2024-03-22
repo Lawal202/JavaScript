@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(183, 119, 137);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container1 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+h2 {
+    color: rgb(7, 130, 212);
+}
+
+#ram1 {
+    margin-top: 15px;
+}
+
+#ram-image {
+    width: 500px;
+    height: auto;
+    margin-bottom: 15px;
+}

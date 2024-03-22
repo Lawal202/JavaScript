@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(75, 75, 188, 0.836);
+}
+
+.row1{
+    margin: auto;
+}
+
+.quote1{
+    color: white;
+    margin-top: 15px;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#quote1{
+    color: whitesmoke;
+    margin-top: 45px;
+    padding-left: 20px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#quote2{
+    color: black;
+    background-color: cadetblue;
+    margin-top: 15px;
+    border-radius: 12px;
+    border: solid 1px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.quote3{
+    margin-top: 30px;
+    border: solid white 3px;
+}
+
+#hassan{
+    margin-right: 25px;
+}
